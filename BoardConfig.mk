@@ -13,6 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+BUILD_BROKEN_DUP_RULES := true
+
 ## Inherit from the common tree
 include device/samsung/exynos9820-common/BoardConfig9820.mk
 
