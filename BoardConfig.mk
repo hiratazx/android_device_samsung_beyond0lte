@@ -14,6 +14,7 @@
 # limitations under the License.
 
 BUILD_BROKEN_DUP_RULES := true
+BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 
 ## Inherit from the common tree
 include device/samsung/exynos9820-common/BoardConfig9820.mk
